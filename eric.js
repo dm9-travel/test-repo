@@ -5,3 +5,8 @@ function eric() {
 function dino() {
     return 'dino is working on the travel app'
 }
+
+
+function thirdFunc() {
+    return 5
+}
